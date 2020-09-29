@@ -1,4 +1,4 @@
-(https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+![gif anup](https://github.com/anupkhobragade/anupkhobragade/blob/e822cf7085fd0e6ef761d69c3536e702f5a74cf0/anup.gif)
 
 - 🔭 I’m currently working on Software Testing profile
 - 🌱 I’m currently learning protractor
