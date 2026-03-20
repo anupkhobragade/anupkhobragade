@@ -42,7 +42,6 @@
 - Built using Streamlit & GROQ API  
 
 👉 https://bhashaai.streamlit.app  
-👉 https://bhashaai.onrender.com  
 
 ---
 
